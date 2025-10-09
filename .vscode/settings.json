@@ -1,7 +1,9 @@
 {
     "cSpell.words": [
+        "crossentropy",
         "dtype",
         "IMDB",
+        "onehot",
         "randn",
         "unsqueezed"
     ]
